@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaEscolar.Domain\SistemaEscolar.Domain.csproj" />
+    <ProjectReference Include="..\SistemaEscolar.Infrastructure\SistemaEscolar.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

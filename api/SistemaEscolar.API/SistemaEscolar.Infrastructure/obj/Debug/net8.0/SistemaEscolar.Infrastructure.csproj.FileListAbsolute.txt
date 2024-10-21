@@ -1,0 +1,17 @@
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\bin\Debug\net8.0\SistemaEscolar.Infrastructure.deps.json
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\bin\Debug\net8.0\SistemaEscolar.Infrastructure.runtimeconfig.json
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\bin\Debug\net8.0\SistemaEscolar.Infrastructure.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\bin\Debug\net8.0\SistemaEscolar.Infrastructure.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\bin\Debug\net8.0\SistemaEscolar.Domain.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\bin\Debug\net8.0\SistemaEscolar.Domain.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.AssemblyInfo.cs
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaE.9EB8E476.Up2Date
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\refint\SistemaEscolar.Infrastructure.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\SistemaEscolar.Infrastructure.genruntimeconfig.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Infrastructure\obj\Debug\net8.0\ref\SistemaEscolar.Infrastructure.dll

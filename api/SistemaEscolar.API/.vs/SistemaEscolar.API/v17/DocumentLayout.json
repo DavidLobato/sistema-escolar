@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.infrastructure\\sistemaescolar.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|solutionrelative:sistemaescolar.infrastructure\\sistemaescolar.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|solutionrelative:sistemaescolar.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|solutionrelative:sistemaescolar.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.infrastructure\\rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|solutionrelative:sistemaescolar.infrastructure\\rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EFEF76F-C24F-47E2-9BF1-ADC368CDCDAE}|SistemaEscolar.Tests\\SistemaEscolar.Tests.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.tests\\alunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EFEF76F-C24F-47E2-9BF1-ADC368CDCDAE}|SistemaEscolar.Tests\\SistemaEscolar.Tests.csproj|solutionrelative:sistemaescolar.tests\\alunoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.api\\controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|solutionrelative:sistemaescolar.api\\controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|solutionrelative:sistemaescolar.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DEB9AD-38BC-4912-BD8B-9AD65FB677A6}|SistemaEscolar.Domain\\SistemaEscolar.Domain.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DEB9AD-38BC-4912-BD8B-9AD65FB677A6}|SistemaEscolar.Domain\\SistemaEscolar.Domain.csproj|solutionrelative:sistemaescolar.domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.infrastructure\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDCAB622-969B-4112-8661-AF9ABC1B80B4}|SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj|solutionrelative:sistemaescolar.infrastructure\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|solutionrelative:sistemaescolar.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|solutionrelative:sistemaescolar.api\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|solutionrelative:sistemaescolar.api\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\interfaces\\iagendadoalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\interfaces\\iagendadoalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\turmaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\responsavelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\responsavelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\provaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\provaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\professorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6243B51-D08F-4DB8-B7B0-BBDC5EB8BD09}|SistemaEscolar.API\\SistemaEscolar.API.csproj|solutionrelative:sistemaescolar.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\notificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\escolaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\disciplinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\disciplinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|c:\\projetos\\dotnet\\sistema escolar\\api\\sistemaescolar.api\\sistemaescolar.services\\implementations\\agendadoalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F848DAC5-38D6-4287-82CF-D54AD2CE1EB1}|SistemaEscolar.Services\\SistemaEscolar.Services.csproj|solutionrelative:sistemaescolar.services\\implementations\\agendadoalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "SistemaEscolar.Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:36:32.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\UsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:38:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaEscolar.API\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\appsettings.json",
+              "RelativeToolTip": "SistemaEscolar.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T10:08:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.API\\Program.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Program.cs",
+              "RelativeToolTip": "SistemaEscolar.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:35:16.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\RabbitMQ\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Infrastructure\\RabbitMQ\\RabbitMqService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\RabbitMQ\\RabbitMqService.cs",
+              "RelativeToolTip": "SistemaEscolar.Infrastructure\\RabbitMQ\\RabbitMqService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:12:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaEscolar.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj",
+              "RelativeToolTip": "SistemaEscolar.Infrastructure\\SistemaEscolar.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T11:58:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "SistemaEscolar.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:36:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutenticacaoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\AutenticacaoController.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.API\\Controllers\\AutenticacaoController.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\AutenticacaoController.cs",
+              "RelativeToolTip": "SistemaEscolar.API\\Controllers\\AutenticacaoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:24:20.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Tests\\AlunoServiceTests.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Tests\\AlunoServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Tests\\AlunoServiceTests.cs",
+              "RelativeToolTip": "SistemaEscolar.Tests\\AlunoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:00:17.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaEscolar.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:30:39.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:32:41.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "SistemaEscolar.Infrastructure\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:12:16.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.API\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "SistemaEscolar.API\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:45:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.API\\Controllers\\TurmaController.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "SistemaEscolar.API\\Controllers\\TurmaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:28:04.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAgendaDoAlunoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Interfaces\\IAgendaDoAlunoService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Interfaces\\IAgendaDoAlunoService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Interfaces\\IAgendaDoAlunoService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Interfaces\\IAgendaDoAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:43:50.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TurmaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\TurmaService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\TurmaService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\TurmaService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\TurmaService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:36:06.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponsavelService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\ResponsavelService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\ResponsavelService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\ResponsavelService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\ResponsavelService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:33:24.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProvaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\ProvaService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\ProvaService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\ProvaService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\ProvaService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:27:13.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfessorService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\ProfessorService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\ProfessorService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\ProfessorService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\ProfessorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:21:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\PessoaService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\PessoaService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\PessoaService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\PessoaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:12:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.API\\Models\\Login.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.API\\Models\\Login.cs",
+              "RelativeToolTip": "SistemaEscolar.API\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:07:50.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotificacaoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\NotificacaoService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\NotificacaoService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\NotificacaoService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\NotificacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:16:38.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\NotaService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\NotaService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\NotaService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\NotaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:14:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MatriculaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\MatriculaService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\MatriculaService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\MatriculaService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\MatriculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:11:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\FuncionarioService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\FuncionarioService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\FuncionarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:08:17.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EscolaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\EscolaService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\EscolaService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\EscolaService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\EscolaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:05:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DisciplinaService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\DisciplinaService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\DisciplinaService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\DisciplinaService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\DisciplinaService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:02:06.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AgendaDoAlunoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\AgendaDoAlunoService.cs",
+              "RelativeDocumentMoniker": "SistemaEscolar.Services\\Implementations\\AgendaDoAlunoService.cs",
+              "ToolTip": "C:\\Projetos\\dotnet\\Sistema Escolar\\api\\SistemaEscolar.API\\SistemaEscolar.Services\\Implementations\\AgendaDoAlunoService.cs",
+              "RelativeToolTip": "SistemaEscolar.Services\\Implementations\\AgendaDoAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:58:33.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\bin\Debug\net8.0\SistemaEscolar.Services.deps.json
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\bin\Debug\net8.0\SistemaEscolar.Services.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\bin\Debug\net8.0\SistemaEscolar.Services.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\bin\Debug\net8.0\SistemaEscolar.Domain.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\bin\Debug\net8.0\SistemaEscolar.Infrastructure.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\bin\Debug\net8.0\SistemaEscolar.Domain.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\bin\Debug\net8.0\SistemaEscolar.Infrastructure.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaEscolar.Services.csproj.AssemblyReference.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaEscolar.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaEscolar.Services.AssemblyInfoInputs.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaEscolar.Services.AssemblyInfo.cs
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaEscolar.Services.csproj.CoreCompileInputs.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaE.0F02DD35.Up2Date
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaEscolar.Services.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\refint\SistemaEscolar.Services.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\SistemaEscolar.Services.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Services\obj\Debug\net8.0\ref\SistemaEscolar.Services.dll

@@ -1,0 +1,11 @@
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\bin\Debug\net8.0\SistemaEscolar.Domain.deps.json
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\bin\Debug\net8.0\SistemaEscolar.Domain.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\bin\Debug\net8.0\SistemaEscolar.Domain.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\SistemaEscolar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\SistemaEscolar.Domain.AssemblyInfoInputs.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\SistemaEscolar.Domain.AssemblyInfo.cs
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\SistemaEscolar.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\SistemaEscolar.Domain.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\refint\SistemaEscolar.Domain.dll
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\SistemaEscolar.Domain.pdb
+C:\Projetos\dotnet\Sistema Escolar\api\SistemaEscolar.API\SistemaEscolar.Domain\obj\Debug\net8.0\ref\SistemaEscolar.Domain.dll
